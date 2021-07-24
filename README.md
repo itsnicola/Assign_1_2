@@ -14,3 +14,7 @@ Coin actors created following this tutorial: https://www.youtube.com/watch?v=EUO
 Enemies created based on this tutorial: https://www.youtube.com/watch?v=gP2ozW0dLZ0&ab_channel=MattAspland
 
 Menus based on this: https://www.youtube.com/watch?v=EjH-i-NoYAk&ab_channel=MattAspland
+
+Music: [song name] by Alexander Nakarada (www.serpentsoundstudios.com)
+Licensed under Creative Commons BY Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/
