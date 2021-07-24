@@ -10,3 +10,5 @@
  Setup of the game, character controls and movements was achieved by following this tutorial: https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/HowTo/CharacterMovement/, using blueprints and Graph Events.
 
 Coin actors created following this tutorial: https://www.youtube.com/watch?v=EUOF1ETsTuA&ab_channel=OneManArmyStudios.
+
+Enemies created based on this tutorial: https://www.youtube.com/watch?v=gP2ozW0dLZ0&ab_channel=MattAspland
