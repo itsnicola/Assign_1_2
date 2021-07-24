@@ -8,3 +8,5 @@
  Setting up this github was done following this tutorial: https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/
  
  Setup of the game, character controls and movements was achieved by following this tutorial: https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/HowTo/CharacterMovement/, using blueprints and Graph Events.
+
+Coin actors created following this tutorial: https://www.youtube.com/watch?v=EUOF1ETsTuA&ab_channel=OneManArmyStudios.
