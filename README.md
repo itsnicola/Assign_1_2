@@ -1,2 +1,10 @@
 # Assign_1_2
- 2.0
+ COMP313 Assignment 1
+ 
+ Nicola Hallberg - 300440537
+ 
+ Game Title - Game Link - Game Description
+ 
+ Setting up this github was done following this tutorial: https://odederell3d.blog/2020/04/22/unreal-engine-4-github-first-steps/
+ 
+ Setup of the game, character controls and movements was achieved by following this tutorial: https://docs.unrealengine.com/4.26/en-US/InteractiveExperiences/HowTo/CharacterMovement/, using blueprints and Graph Events.
