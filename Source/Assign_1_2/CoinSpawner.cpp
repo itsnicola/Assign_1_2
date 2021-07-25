@@ -29,11 +29,11 @@ void ACoinSpawner::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-	int rand = FMath::RandRange(1, 100); //1 in 100 chance of generating a new coin every tick
+	int rand = FMath::RandRange(1, chance); //1 in 100 chance of generating a new coin every tick
 	FVector Loc; 
 	FRotator Rot; 
 	GetWorld()->GetFirstPlayerController()->GetPlayerViewPoint(Loc, Rot); //Get position character is looking in
-	Loc += FMath::VRand() * 200; //randomise to within 200 of ViewPoint
+	//Loc += FMath::VRand() * 200; //randomise to within 200 of ViewPoint
 	//Spawn location params passed in from unreal
 	Loc.Z = Z;
 	Loc.X = FMath::RandRange(XRange.X, XRange.Y); 

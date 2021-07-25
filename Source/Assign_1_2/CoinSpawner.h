@@ -27,6 +27,8 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Spawning Height Z")
 		float Z;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Chance to spawn")
+		int chance;
 
 protected:
 	// Called when the game starts or when spawned
