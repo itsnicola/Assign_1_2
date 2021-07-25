@@ -20,3 +20,5 @@ Licensed under Creative Commons BY Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
 
 CoinSpawner created in C++ by loosely following this tutorial: https://www.youtube.com/watch?v=9yftOwWp48A&ab_channel=DevEnabled
+
+Amount of coins (score) printed to screen following this tutorial: https://www.youtube.com/watch?v=NUrEiaJkn58&list=UUBobmJyzsJ6Ll7UbfhI4iwQ&index=20&ab_channel=UnrealEngine
