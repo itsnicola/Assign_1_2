@@ -4,8 +4,8 @@
  Nicola Hallberg - 300440537
  
  ### Game Title: Robbers of the Knight
- ### Game Description:
  
+ ### Game Description:
  #### Main Action: 
  
  Robbers of the Knight is a simple third-person 3d game that traps the player inside a box. Within this, a number of coins spawn at random places and intervals, as well as knights. The aim of the game is collect 10 coins as they appear and before they despawn, and avoid the knights who chase you down constantly. If this game was to be further developed, this could be the first of many levels, where the number of coins needed increases, the rate at which knights spawn could increase and coins spawn could decrease, and maze-like obstacles could spawn. 
@@ -18,7 +18,7 @@
  
  The most interesting interaction is the spawner I made in C++, because it brings a level of livelyness and challenge that was very much missing beforehand. The possibility of a knight spawning right in front of the player, or directly in their path, makes the game less predictable and more varied. If I were to replace the scenery and character meshes with more a more appropriate look, this interection has elements that are consistent with that of a horror game. 
  
- ### Video link:
+ ### Video link: https://drive.google.com/file/d/1GHDC-hNeJLMUIFGxW-R1qiNw3OuxtkAZ/view?usp=sharing
  
  ### Resources/Tutorials Followed:
  
