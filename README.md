@@ -18,3 +18,5 @@ Menus based on this: https://www.youtube.com/watch?v=EjH-i-NoYAk&ab_channel=Matt
 Music: [song name] by Alexander Nakarada (www.serpentsoundstudios.com)
 Licensed under Creative Commons BY Attribution 4.0 License
 http://creativecommons.org/licenses/by/4.0/
+
+CoinSpawner created in C++ by loosely following this tutorial: https://www.youtube.com/watch?v=9yftOwWp48A&ab_channel=DevEnabled
